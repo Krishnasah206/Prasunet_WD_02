@@ -20,7 +20,7 @@ This project is a simple stopwatch application built using HTML, CSS, and JavaSc
 - **styles.css**: The CSS file containing the styling rules for the stopwatch, ensuring it has a clean and modern appearance.
 - **script.js**: The JavaScript file containing the logic for the stopwatch functionality, including handling start, reset, and lap recording actions, and updating the display.
 
-<img src="./asset/stop.png" width="40vh" height="40vh">
+<img src="./asset/stop.png">
 
 ## Usage
 
@@ -28,7 +28,7 @@ This project is a simple stopwatch application built using HTML, CSS, and JavaSc
 2. **Reset the Stopwatch**: Click the "Reset" button to stop the timer and reset the elapsed time to zero.
 3. **Record Laps**: Click the "Laps" button to record the current time and add it to the lap list. The laps are displayed in a list below the stopwatch.
 
-<img src="./asset/start.png" width="40vh" height="40vh">
+<img src="./asset/start.png">
 
 ## How It Works
 
@@ -36,7 +36,7 @@ This project is a simple stopwatch application built using HTML, CSS, and JavaSc
 - **Reset Button**: The "Reset" button stops the stopwatch and resets the elapsed time to zero. It also clears the list of recorded laps.
 - **Laps Button**: Clicking the "Laps" button records the current elapsed time as a lap and adds it to a list of laps displayed below the stopwatch. This allows users to keep track of multiple lap times without resetting the stopwatch.
 
-<img src="./asset/laps.png" width="40vh" height="40vh">
+<img src="./asset/laps.png">
 
 This project demonstrates the basics of creating a functional stopwatch using HTML, CSS, and JavaScript. It can be extended with additional features and enhancements as needed.
 
